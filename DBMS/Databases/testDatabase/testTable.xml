@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<savableTable table-name="testTable">
+    <header>
+        <colName>ID Name Job</colName>
+        <colType>INTEGER VARCHAR VARCHAR</colType>
+    </header>
+    <row>
+        <ID db-type="INTEGER" type="java.lang.String">1</ID>
+        <Name db-type="VARCHAR" type="java.lang.String">Marc</Name>
+        <Job db-type="VARCHAR" type="java.lang.String">Manager</Job>
+    </row>
+    <row>
+        <ID db-type="INTEGER" type="java.lang.String">1</ID>
+        <Name db-type="VARCHAR" type="java.lang.String">Marc</Name>
+        <Job db-type="VARCHAR" type="java.lang.String">Manager</Job>
+    </row>
+</savableTable>

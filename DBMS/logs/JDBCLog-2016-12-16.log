@@ -1,0 +1,18 @@
+[INFO ] 2016-12-16 16:10:38.921 LogService - Create database command to create the database sample_db
+[INFO ] 2016-12-16 16:10:38.960 LogService - Operation Successful
+[INFO ] 2016-12-16 16:10:47.573 LogService - Use database command to use the database sample_db
+[INFO ] 2016-12-16 16:10:47.573 LogService - Operation Successful
+[INFO ] 2016-12-16 16:12:42.854 LogService - Create table command to create the table sampletable in the database null
+[INFO ] 2016-12-16 16:12:42.929 LogService - Operation Successful
+[INFO ] 2016-12-16 16:12:58.184 LogService - Select from table command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:12:58.190 LogService - Operation Successful
+[INFO ] 2016-12-16 16:14:18.686 LogService - Insert command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:14:18.719 LogService - Operation Successful
+[INFO ] 2016-12-16 16:14:44.545 LogService - Insert command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:14:44.654 LogService - Operation Successful
+[INFO ] 2016-12-16 16:15:07.263 LogService - Insert command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:15:07.301 LogService - Operation Successful
+[INFO ] 2016-12-16 16:15:51.176 LogService - Insert command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:15:51.218 LogService - Operation Successful
+[INFO ] 2016-12-16 16:16:02.581 LogService - Select from table command on the table sampletable in the database null
+[INFO ] 2016-12-16 16:16:02.623 LogService - Operation Successful
