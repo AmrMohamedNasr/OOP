@@ -317,6 +317,7 @@ public class PlayerImp extends GraphicalGameObject implements Player {
 		LogService.printTrace(this.getClass(), "void Method"
 				+ " addObserver(Observer) is called.");
 		playerObservable.addObserver(observer);
+		this.notifyObserversScore();
 	}
 
 	@Override
