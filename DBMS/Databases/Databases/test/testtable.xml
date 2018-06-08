@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<savableTable table-name="testtable">
-    <header>
-        <colName>id</colName>
-        <colType>INTEGER</colType>
-    </header>
-</savableTable>
